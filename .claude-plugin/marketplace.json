@@ -1,0 +1,14 @@
+{
+  "name": "mattpocock-skills",
+  "owner": {
+    "name": "Viktor Art",
+    "email": "meandmymouse@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./",
+      "description": "Agent skills for real engineering: TDD, grilling, triage, architecture, and more."
+    }
+  ]
+}
